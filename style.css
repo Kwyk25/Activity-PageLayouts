@@ -1,13 +1,80 @@
 span {
   display: inline-block;
 }
-/* span {
+
+body {
+  text-align: center;
+}
+
+li {
+  display: inline;
+  margin-left: 10px;
+}
+
+#pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.logo {
+  width: 100px;
+}
+.nav {
+  
+
+}
+
+.prompotion {
+  background: darkblue;
+  height: 20px;
+  color: white;
+  text-align: center;
+
+}
+
+.filp {
+  width: 150px;
+  height: 120px;
+
+}
+.fold {
+  width: 150px;
+  height: 120px;
+}
+.buds {
+  width: 150px;
+  height: 120px;
+}
+.watch {
+  width: 150px;
+  height: 120px;
+}
+.s22 {
+  width: 150px;
+  height: 120px;
+}
+#icons {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.links{
+  display: inline-block;
+  
+  padding: 5px;
+  
+}
+
+ span {
   display: inline-block;
   background-color: lightblue;
   padding: 5px;
   border: 1px solid darkgray;
 } */
-/* 
+ 
 #one {
   background-color:lightblue;
   width: 150px;
@@ -26,14 +93,13 @@ span {
   height: 150px;
 } */
 
-/* div,
+ div,
 span {
   margin: 1px;
 }
 
 span {
   border: 1px solid #333;
-  
   padding: 10px 15px;
 }
 
@@ -44,4 +110,4 @@ span {
 
 #text span {
   background-color: white;
-} */
+} 
